@@ -17,6 +17,17 @@ Jdroid provides a set of tools for modern Java-based enterprise and android appl
 * [jdroid-java-google-drive](https://github.com/maxirosson/jdroid-java-google-drive)
 * [jdroid-gradle-timer-plugin](https://github.com/maxirosson/jdroid-gradle-timer-plugin)
 
+Continuous Integration
+-----------
+
+|Tool|Status|
+| ------------- | ------------- |
+|[jdroid-android](https://github.com/maxirosson/jdroid-android)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid/tree/master)
+|[jdroid-android-lint](https://github.com/maxirosson/jdroid-android-lint)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid-android-lint/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid-android-lint/tree/master)
+|[jdroid-googleplay-publisher](https://github.com/maxirosson/jdroid-googleplay-publisher)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid-googleplay-publisher/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid-googleplay-publisher/tree/master)
+|[jdroid-java-webapp](https://github.com/maxirosson/jdroid-java-webapp)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid-java-webapp/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid-java-webapp/tree/master)
+|[jdroid-gradle-plugin](https://github.com/maxirosson/jdroid-gradle-plugin)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid-gradle-plugin/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid-gradle-plugin/tree/master)
+
 ## Donations
 Help us to continue with this project:
 
