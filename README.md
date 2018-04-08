@@ -1,17 +1,9 @@
 # Jdroid Tools
 
-## Tools for Android Applications & Libraries
-
 * [jdroid-android](https://github.com/maxirosson/jdroid-android)
 * [jdroid-android-lint](https://github.com/maxirosson/jdroid-android-lint)
 * [jdroid-googleplay-publisher](https://github.com/maxirosson/jdroid-googleplay-publisher)
-
-## Tools for Java Web Applications
-
 * [jdroid-java-webapp](https://github.com/maxirosson/jdroid-java-webapp)
-
-## Tools for Java Applications & Libraries
-
 * [jdroid-gradle-plugin](https://github.com/maxirosson/jdroid-gradle-plugin)
 * [jdroid-java](https://github.com/maxirosson/jdroid-java)
 * [jdroid-java-http](https://github.com/maxirosson/jdroid-java-http)
