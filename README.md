@@ -22,11 +22,17 @@ Continuous Integration
 
 |Tool|Status|
 | ------------- | ------------- |
-|[jdroid-android](https://github.com/maxirosson/jdroid-android)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid/tree/master)
+|[jdroid-android](https://github.com/maxirosson/jdroid-android)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid-android/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid-android/tree/master)
 |[jdroid-android-lint](https://github.com/maxirosson/jdroid-android-lint)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid-android-lint/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid-android-lint/tree/master)
 |[jdroid-googleplay-publisher](https://github.com/maxirosson/jdroid-googleplay-publisher)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid-googleplay-publisher/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid-googleplay-publisher/tree/master)
 |[jdroid-java-webapp](https://github.com/maxirosson/jdroid-java-webapp)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid-java-webapp/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid-java-webapp/tree/master)
 |[jdroid-gradle-plugin](https://github.com/maxirosson/jdroid-gradle-plugin)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid-gradle-plugin/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid-gradle-plugin/tree/master)
+|[jdroid-java](https://github.com/maxirosson/jdroid-java)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid-java/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid-java/tree/master)
+|[jdroid-java-http](https://github.com/maxirosson/jdroid-java-http)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid-java-http/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid-java-http/tree/master)
+|[jdroid-java-firebase-dynamiclinks](https://github.com/maxirosson/jdroid-java-firebase-dynamiclinks)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid-java-firebase-dynamiclinks/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid-java-firebase-dynamiclinks/tree/master)
+|[jdroid-java-github](https://github.com/maxirosson/jdroid-java-github)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid-java-github/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid-java-github/tree/master)
+|[jdroid-java-google-drive](https://github.com/maxirosson/jdroid-java-google-drive)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid-java-google-drive/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid-java-google-drive/tree/master)
+|[jdroid-gradle-timer-plugin](https://github.com/maxirosson/jdroid-gradle-timer-plugin)|[![CircleCI](https://circleci.com/gh/maxirosson/jdroid-gradle-timer-plugin/tree/master.svg?style=svg)](https://circleci.com/gh/maxirosson/jdroid-gradle-timer-plugin/tree/master)
 
 ## Donations
 Help us to continue with this project:
