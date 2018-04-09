@@ -3,7 +3,8 @@
 
 Jdroid provides a set of tools for modern Java-based enterprise and android applications.
 
-# Jdroid Tools
+Components
+-----------
 
 * [jdroid-android](https://github.com/maxirosson/jdroid-android)
 * [jdroid-android-lint](https://github.com/maxirosson/jdroid-android-lint)
