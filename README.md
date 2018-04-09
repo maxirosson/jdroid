@@ -11,12 +11,12 @@ Components
 * [jdroid-googleplay-publisher](https://github.com/maxirosson/jdroid-googleplay-publisher)
 * [jdroid-java-webapp](https://github.com/maxirosson/jdroid-java-webapp)
 * [jdroid-gradle-plugin](https://github.com/maxirosson/jdroid-gradle-plugin)
+* [jdroid-gradle-timer-plugin](https://github.com/maxirosson/jdroid-gradle-timer-plugin)
 * [jdroid-java](https://github.com/maxirosson/jdroid-java)
 * [jdroid-java-http](https://github.com/maxirosson/jdroid-java-http)
 * [jdroid-java-firebase-dynamiclinks](https://github.com/maxirosson/jdroid-java-firebase-dynamiclinks)
 * [jdroid-java-github](https://github.com/maxirosson/jdroid-java-github)
 * [jdroid-java-google-drive](https://github.com/maxirosson/jdroid-java-google-drive)
-* [jdroid-gradle-timer-plugin](https://github.com/maxirosson/jdroid-gradle-timer-plugin)
 
 Continuous Integration
 -----------
