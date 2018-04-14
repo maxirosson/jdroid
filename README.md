@@ -1,5 +1,4 @@
 # Jdroid
------------
 
 Jdroid provides a set of tools for modern Java-based enterprise and android applications.
 
