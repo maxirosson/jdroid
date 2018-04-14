@@ -1,4 +1,4 @@
-[![JDROID](https://jdroidtools.com/images/logoDark.png)](http://jdroidtools.com/)
+# Jdroid
 -----------
 
 Jdroid provides a set of tools for modern Java-based enterprise and android applications.
