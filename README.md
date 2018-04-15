@@ -17,8 +17,13 @@ Components
 * [jdroid-java-github](https://github.com/maxirosson/jdroid-java-github)
 * [jdroid-java-google-drive](https://github.com/maxirosson/jdroid-java-google-drive)
 
-Continuous Integration
+Contributors
 -----------
+
+* [jdroid-component-builder](https://github.com/maxirosson/jdroid-component-builder)
+* [jdroid-website](https://github.com/maxirosson/jdroid-website)
+
+### Continuous Integration
 
 |component|master|staging|production|
 | ------------- | ------------- | ------------- | ------------- |
